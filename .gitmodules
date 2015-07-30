@@ -1,0 +1,3 @@
+[submodule "googlemap"]
+	path = googlemap
+	url = git@github.com:georgefs/googlemaps-1.0.2b.git
